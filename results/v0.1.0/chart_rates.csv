@@ -1,0 +1,7 @@
+label,mjd_first,mjd_last,rate_cps,rate_err_cps,rate_1e3_cps,kind,source
+Cycle 3 plateau (2022 Mar-May),59643.501087963,59698.101099537,0.01707967800692959,0.0008187750839740076,17.08,measured,results.json gates.stacks.cycle3_plateau
+Cycle 4 plateau (2022 Aug-Oct),59818.7212384259,59874.7990046296,0.007966638214596273,0.0006577232026918999,7.97,measured,results.json gates.stacks.cycle4_plateau
+Cycle 5 plateau (2023 Mar-May),60009.2781944444,60072.003900463,0.005342091898109529,0.0007049185066429358,5.34,measured,results.json gates.stacks.cycle5_plateau
+Cycle 6 forecast,60197.5,60257.5,0.0029876326207528207,,2.99,forecast,results.json primary.fade_forecast.forecast_cycle6_rate
+Cycle 6 measured (2023 Sep-Nov),60202.1485763889,60251.0888541667,0.002644996273321708,0.0006678682156734425,2.64,measured,results.json primary.on_stack
+Faint states cycles 5-6,60118.3476157407,60342.3839930556,0.00017353527048202013,0.00019639734794906988,0.17,measured (not detected),results.json primary.off_stack
