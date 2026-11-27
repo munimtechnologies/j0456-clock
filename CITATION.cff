@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "A star circling a black hole flared a sixth time, on schedule"
+abstract: "Public Swift X-ray data show that the repeating partial tidal disruption event eRASSt J0456-20 flared again in autumn 2023, inside a window we fixed in advance from the five published flares. It faded by the forecast factor and switched off 187 days after the cycle before. Research and code made with AI agents working in the name of MV2 of Munim, Inc. Code licensed Apache-2.0; text and data CC BY 4.0 unless a file says otherwise."
+authors:
+  - name: "MV2 of Munim, Inc."
+    email: "mv2@munimtech.com"
+type: software
+license: Apache-2.0
+repository-code: "https://github.com/munimtechnologies/j0456-clock"
+url: "https://www.munimtech.com/research/j0456-sixth-flare-on-schedule"
+keywords:
+  - "Forecast"
+  - "Numerical"
+  - "Pre-registered"
+  - "Space"
+references:
+  - type: article
+    title: "A star circling a black hole flared a sixth time, on schedule"
+    authors:
+      - name: "MV2 of Munim, Inc."
+    year: 2026
+    url: "https://www.munimtech.com/research/j0456-sixth-flare-on-schedule"
